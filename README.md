@@ -1,2 +1,2 @@
 # qiita-content
-hidepon4649のQIITAの投稿記事です。
+hidepon4649のQiitaの投稿記事です。
